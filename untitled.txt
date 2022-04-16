@@ -1,0 +1,41 @@
+[✔] Status : Success     k:-0
+[>] Username : alhadi5593
+[>] Password : lutfi123
+[>] Follower : 3
+[>] Following : 102
+[>] Cookie : mid=YgsYNQAEAAH3CabaNIsSqcoi-l9U;ig_did=7D148F32-665D-424A-9160-99B2B8D2B76F;ig_nrcb=1;shbid="9776,1986587953,1674289809:01f713acdf5c4921a542aff43695805d8e788f5580f4efaaf714ca7301ba34bb727790c9";shbts="1642753809,1986587953,1674289809:01f7227f6219fb0a036e3593c1531e9b9c9eb1db9dcbb7b4590ba36ffcbe62715eb10ada";csrftoken=BaDqVsy6vswkwaqx7vYBP7JtXPE5s8TQ;ds_user_id=51754634309;sessionid=51754634309%3ARvxfGpDR4hSqyK%3A9;rur="EAG,1986587953,1674477820:01f724c03ff38f24662b1648dd2a933fc4a6e66b7a2bef2458d140bfb76ee86296f6cd8b"
+
+[✔] Status : Success     k:-1
+[>] Username : makruf_3119
+[>] Password : anang123
+[>] Follower : 569
+[>] Following : 859
+[>] Cookie : mid=YgsbLgAEAAEE8fQapZww8T8KSvDJ;ig_did=93685F85-BC42-48C0-B4BF-C278C42349DF;ig_nrcb=1;shbid="9776,1986587953,1674289809:01f713acdf5c4921a542aff43695805d8e788f5580f4efaaf714ca7301ba34bb727790c9";shbts="1642753809,1986587953,1674289809:01f7227f6219fb0a036e3593c1531e9b9c9eb1db9dcbb7b4590ba36ffcbe62715eb10ada";csrftoken=fTyCF1h1SRa33HTo76DX8x4eOii4B25W;ds_user_id=22475517934;sessionid=22475517934%3AcVMdT8FYmyS9fI%3A25;rur="EAG,1986587953,1674477820:01f724c03ff38f24662b1648dd2a933fc4a6e66b7a2bef2458d140bfb76ee86296f6cd8b"
+
+[✘] Status : Checkpoint    -2
+[>] Username : ko_dendi
+[>] Password : dendi1234
+[>] Follower : 137
+[>] Following : 458
+
+[✘] Status : Checkpoint    -2
+[>] Username : ka.ila4363
+[>] Password : kaila1234
+[>] Follower : 1
+[>] Following : 512
+
+[✔] Status : Success     k:-2
+[>] Username : hansfouten0212
+[>] Password : hans1234
+[>] Follower : 173
+[>] Following : 1323
+[>] Cookie : mid=YgsjZwAEAAGdiYX6YLlWVoQjzSeJ;ig_did=17F61D90-00CD-4017-9A68-719A87C6CEAD;ig_nrcb=1;shbid="9776,1986587953,1674289809:01f713acdf5c4921a542aff43695805d8e788f5580f4efaaf714ca7301ba34bb727790c9";shbts="1642753809,1986587953,1674289809:01f7227f6219fb0a036e3593c1531e9b9c9eb1db9dcbb7b4590ba36ffcbe62715eb10ada";csrftoken=GRWY5M3so9v4EcsWKNO1hk58WWUqjI3w;ds_user_id=6674621572;sessionid=6674621572%3AMZix0xN7z5TZDa%3A9;rur="EAG,1986587953,1674477820:01f724c03ff38f24662b1648dd2a933fc4a6e66b7a2bef2458d140bfb76ee86296f6cd8b"
+
+
+[!] Koneksi Error
+[✔] Status : Success
+[>] Username : arianiiinyoman
+[>] Password : nyomanariani
+[>] Follower : 172
+[>] Following : 277
+[>] Cookie : mid=Ygs2WQAEAAH7KlJVNlgP6ikOCuyR;ig_did=D52A3E4B-1523-483E-A5FA-25BAB9C66FFE;ig_nrcb=1;shbid="9776,1986587953,1674289809:01f713acdf5c4921a542aff43695805d8e788f5580f4efaaf714ca7301ba34bb727790c9";shbts="1642753809,1986587953,1674289809:01f7227f6219fb0a036e3593c1531e9b9c9eb1db9dcbb7b4590ba36ffcbe62715eb10ada";csrftoken=hdVlhHzVKG6SWUtmNMOL01pERmEDnjSZ;ds_user_id=17073791644;sessionid=17073791644%3AjUJx0EcsjoP00Y%3A16;rur="EAG,1986587953,1674477820:01f724c03ff38f24662b1648dd2a933fc4a6e66b7a2bef2458d140bfb76ee86296f6cd8b"
